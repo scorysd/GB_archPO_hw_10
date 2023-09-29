@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F1D1481E-C301-4527-8B70-0388722893C3}|http">
+  <MonoDevelop.Ide.ItemProperties.ClinicService PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClinicService/Models/Pet.cs">
+    <Files>
+      <File FileName="ClinicService/Program.cs" Line="1" Column="1" />
+      <File FileName="ClinicService/Models/Client.cs" Line="1" Column="1" />
+      <File FileName="ClinicService/Models/Consultation.cs" Line="1" Column="1" />
+      <File FileName="ClinicService/Models/Pet.cs" Line="1" Column="1" />
+      <File FileName="ClinicService/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="ClinicService/Services/Impl/ClientRepository.cs" Line="1" Column="1" />
+      <File FileName="ClinicService/Services/IClientRepository.cs" Line="1" Column="1" />
+      <File FileName="ClinicService/Services/IRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClinicService" expanded="True">
+            <Node name="ClinicService" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Pet.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Impl" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
